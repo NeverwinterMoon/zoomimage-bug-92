@@ -1,0 +1,1 @@
+# zoomimage-bug-92
